@@ -1,0 +1,59 @@
+1.Total Lok sabha seats
+2.What is the total number of seats available for elections in each state
+3. Total seats won by NDA Alliances.
+
+NDA Alliances
+        ('Bharatiya Janata Party - BJP', 
+        'Telugu Desam - TDP', 
+		'Janata Dal  (United) - JD(U)',
+        'Shiv Sena - SHS', 
+        'AJSU Party - AJSUP', 
+        'Apna Dal (Soneylal) - ADAL', 
+        'Asom Gana Parishad - AGP',
+        'Hindustani Awam Morcha (Secular) - HAMS', 
+        'Janasena Party - JnP', 
+		'Janata Dal  (Secular) - JD(S)',
+        'Lok Janshakti Party(Ram Vilas) - LJPRV', 
+        'Nationalist Congress Party - NCP',
+        'Rashtriya Lok Dal - RLD', 
+        'Sikkim Krantikari Morcha - SKM')
+
+4. Seats Won by NDA Allianz Parties
+5.Total Seats Won by I.N.D.I.A. Allianz
+
+I.N.D.I.A. Allianz
+     
+                'Indian National Congress - INC',
+                'Aam Aadmi Party - AAAP',
+                'All India Trinamool Congress - AITC',
+                'Bharat Adivasi Party - BHRTADVSIP',
+                'Communist Party of India  (Marxist) - CPI(M)',
+                'Communist Party of India  (Marxist-Leninist)  (Liberation) - CPI(ML)(L)',
+                'Communist Party of India - CPI',
+                'Dravida Munnetra Kazhagam - DMK',
+                'Indian Union Muslim League - IUML',
+                'Nat`Jammu & Kashmir National Conference - JKN',
+                'Jharkhand Mukti Morcha - JMM',
+                'Jammu & Kashmir National Conference - JKN',
+                'Kerala Congress - KEC',
+                'Marumalarchi Dravida Munnetra Kazhagam - MDMK',
+                'Nationalist Congress Party Sharadchandra Pawar - NCPSP',
+                'Rashtriya Janata Dal - RJD',
+                'Rashtriya Loktantrik Party - RLTP',
+                'Revolutionary Socialist Party - RSP',
+                'Samajwadi Party - SP',
+                'Shiv Sena (Uddhav Balasaheb Thackrey) - SHSUBT',
+                'Viduthalai Chiruthaigal Katchi - VCK'
+           
+6. Seats Won by I.N.D.I.A. Allianz Parties 
+7. Add new column field in table partywise_results to get the Party Allianz as NDA, I.N.D.I.A and OTHER
+8.Which party alliance (NDA, I.N.D.I.A, or OTHER) won the most seats across all states?
+9.Winning candidate's name, their party name, total votes, and the margin of victory for a specific state and constituency?    
+10.What is the distribution of EVM votes versus postal votes for candidates in a specific constituency?
+11.Which parties won the most seats in a State, and how many seats did each party win?
+12. What is the total number of seats won by each party alliance (NDA, I.N.D.I.A, and OTHER) in each state for the India Elections 2024
+13. Which candidate received the highest number of EVM votes in each constituency (Top 10)?
+14. Which candidate won and which candidate was the runner-up in each constituency of State for the 2024 elections?
+
+
+
